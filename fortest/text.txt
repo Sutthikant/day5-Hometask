@@ -1,0 +1,3 @@
+This file is just for checking command "get"
+This is for check multiple lines
+This is just another line
